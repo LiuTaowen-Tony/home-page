@@ -43,3 +43,4 @@ CVS/
 *.sql
 *.sqlite
 
+node_modules/
