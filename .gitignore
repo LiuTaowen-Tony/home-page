@@ -44,3 +44,6 @@ CVS/
 *.sqlite
 
 node_modules/
+public/
+db.json
+
